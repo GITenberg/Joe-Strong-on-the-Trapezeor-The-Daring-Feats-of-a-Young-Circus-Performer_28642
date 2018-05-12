@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '3584'
     url: http://www.gutenberg.org/2009/agents/3584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28642#Joe-Strong-on-the-Trapezeor-The-Daring-Feats-of-a-Young-Circus-Performer
 gutenberg_issued: '2009-04-30'
 gutenberg_type: Text
 identifiers:
