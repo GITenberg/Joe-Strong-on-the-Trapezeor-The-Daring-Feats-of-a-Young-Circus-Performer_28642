@@ -1,0 +1,29 @@
+_repo: Joe-Strong-on-the-Trapezeor-The-Daring-Feats-of-a-Young-Circus-Performer_28642
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28642-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Barnum, Vance
+    gutenberg_agent_id: '3584'
+    url: http://www.gutenberg.org/2009/agents/3584
+description: ''
+gutenberg_issued: '2009-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Circus performers -- Juvenile fiction'
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aerialists -- Juvenile fiction'
+title: 'Joe Strong on the Trapeze
+
+  or The Daring Feats of a Young Circus Performer'
+url: http://www.gutenberg.org/ebooks/28642
